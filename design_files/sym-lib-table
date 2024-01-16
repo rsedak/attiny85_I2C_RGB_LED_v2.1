@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "attiny85_I2C_RGB_LED_v2-rescue")(type "Legacy")(uri "${KIPRJMOD}/attiny85_I2C_RGB_LED_v2-rescue.lib")(options "")(descr ""))
+  (lib (name "attiny85_I2C_RGB_LED_v21-rescue")(type "Legacy")(uri "${KIPRJMOD}/attiny85_I2C_RGB_LED_v21-rescue.lib")(options "")(descr ""))
+)
