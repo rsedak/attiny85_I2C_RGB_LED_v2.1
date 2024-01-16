@@ -22,7 +22,7 @@ Robert Sedak made a video with example programmed in Arduino IDE with ATtiny85 s
 
 
 
-You can download example for Arduino IDE from [here](examples/).
+You can download example for Arduino IDE from [here](firmware/).
 
 
 Bill Of Materials
@@ -53,7 +53,7 @@ Firmware
 --------
 This project can be programmed using the Open Source [Arduino](https://www.arduino.cc/).
 [ATTinyCore by Spence Konde](https://github.com/SpenceKonde/ATTinyCore) was used to program ATtiny85 in Arduino IDE.
-Arduino example is located in [examples](examples/) folder.
+Arduino example is located in [examples](firmware/) folder.
 
 
 License

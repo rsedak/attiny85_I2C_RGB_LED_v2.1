@@ -19,7 +19,7 @@ Robert Sedak je snimio video s primjerom programiranim u Arduino IDE s podrškom
 
 
 
-Primjere za Arduino IDE možete preuzati [ovdje](examples/).
+Primjere za Arduino IDE možete preuzati [ovdje](firmware/).
 
 
 Popis komponenti
@@ -51,7 +51,7 @@ Firmware
 --------
 Ovo učilo može biti progrmairano pomoću [Arduino IDE](https://www.arduino.cc/).
 [ATTinyCore by Spence Konde](https://github.com/SpenceKonde/ATTinyCore) je korišten za programiranje ATtiny85 u Arduino IDE.
-Primjer za Arduino IDE se nalazi u mapi [examples](examples/).
+Primjer za Arduino IDE se nalazi u mapi [examples](firmware/).
 
 
 Licenca
