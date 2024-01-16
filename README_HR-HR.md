@@ -14,7 +14,7 @@ Autor
 Application
 -----------
 Robert Sedak je snimio video s primjerom programiranim u Arduino IDE s podrškom za ATtiny85:
-[![Shield application](images/default.png)](https://youtu.be/oApuzNo8WgQ "ATtiny85 I2C RGB LED modul - primjer programiranja")
+[![Shield application](images/default.png)](https://youtu.be/8wTPn3GGv1E "ATtiny85 I2C RGB LED modul - primjer programiranja")
 
 
 

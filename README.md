@@ -16,7 +16,7 @@ Application
 -----------
 Robert Sedak made a video with example programmed in Arduino IDE with ATtiny85 support:
 
-[![Shield application](images/default.png)](https://youtu.be/oApuzNo8WgQ "ATtiny85 I2C RGB LED module example")
+[![Shield application](images/default.png)](https://youtu.be/8wTPn3GGv1E "ATtiny85 I2C RGB LED module example")
 
 
 
