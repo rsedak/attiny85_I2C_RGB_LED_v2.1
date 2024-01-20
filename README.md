@@ -4,7 +4,7 @@ Introduction
 ============
 
 Purpose of ATtiny85 I2C RGB LED module is student education. It shows how to controll RGB via I2C protocol.
-![Shield front](images/attiny85_I2C_RGB_LED_v21.jpg "Charlie circle educational module")
+![Shield front](images/attiny85_I2C_RGB_LED_v21.jpg "ATtiny85 I2C RGB LED educational module")
 
 
 Contributor
